@@ -32,7 +32,9 @@
     "sinon": "^1.11.1"
   },
   "dependencies": {
+    "atob": "^2.0.3",
     "jsonwebtoken": "^5.0.0",
-    "passport-strategy": "^1.0.0"
+    "passport-strategy": "^1.0.0",
+    "pem-jwk": "^1.5.1"
   }
 }
